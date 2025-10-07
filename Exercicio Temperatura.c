@@ -2,9 +2,9 @@
 
 int main(){
 
-    float temperatura = 32.0;
+    float temperatura = 30.0;
 
-    if (temperatura > 30.0){
+    if (temperatura >= 30.0){
         printf("Está calor!!!\n");
 
     }
