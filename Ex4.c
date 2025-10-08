@@ -2,7 +2,7 @@
 
 int main (){
 
-    int nota = 65;
+    int nota = 58;
 
     if(nota >= 60) {
         printf("Parabéns, você passou!\n");
